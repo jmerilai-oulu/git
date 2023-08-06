@@ -1,5 +1,1 @@
-- merge all branches to master
-- solve any issues that might occur
-- update gitignore to include this file
-- commit changes
-- push changes to remote repository
+- remove and ignore me
